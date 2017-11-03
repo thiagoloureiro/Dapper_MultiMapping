@@ -1,2 +1,2 @@
 # Dapper_MultiMapping
-MultiMapping with Dapper with .NET Core
+MultiMapping with Dapper using .NET Core
